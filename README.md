@@ -23,8 +23,7 @@
 ---
 
 ### Задание 1
-
-https://github.com/netology-code/sys-pattern-homework
+![image](https://github.com/duha2060/elk/assets/80347708/b27bc4ea-4d32-42d1-a873-e7158171e0c7)
 
 
 
